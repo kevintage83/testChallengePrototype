@@ -1,5 +1,5 @@
 # Functional Test Challenge Prototype
-This project is a Node.js/Express API that returns search results of famous explorers. Most importantly, there is a functional test suite for the Node.js/Express files. A note to tech leads and senior software devs: Welcome! You're likely here because you need to see my coding chops! Express and NodeJS examples (which aren't locked behind a previous client's privacy settings/guidelines or blocked by an NDA) must be created in my free time. Sharable projects are relegated to simple apps like these! I'm sure [at least some of] you can relate. :-)
+This project is a Node.js/Express API that returns search results of famous explorers. Most importantly, there is a functional test suite for the Node.js/Express files. A note to tech leads and senior software devs: Welcome! You're likely here because you need to see my coding chops! Express and Node.js examples (which aren't locked behind a previous client's privacy settings/guidelines or blocked by an NDA) must be created in my free time. Sharable projects are relegated to simple apps like these! I'm sure [at least some of] you can relate. :-)
 
 ## Installation
 You could clone the repo, click the download button, or just copy/paste the code into your code editor; it's only a few files. 
